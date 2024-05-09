@@ -1,0 +1,23 @@
+[INIT]
+NumCascos=4
+
+[Casco1] ' Casco de hierro
+Index=568
+
+[Casco2] ' Casco de hierro completo
+Index=567
+
+[Casco3] ' Casco de plata
+Index=405
+
+[Casco4] ' Casco de caballero
+Index=564
+
+[Casco5] ' Casco Infernal (Bardo)
+Index=910
+
+[Casco6] ' Casco Real
+Index=903
+
+[Casco7] ' Casco de Bronce
+Index=905

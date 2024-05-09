@@ -1,0 +1,29 @@
+[INIT]
+NumEscudos=7
+
+[Escudo1] ' Escudo de tortuga
+Index=404
+
+[Escudo2] ' Rodela
+Index=608
+
+[Escudo3] ' Escudo de hierro
+Index=130
+
+[Escudo4] ' Escudo imperial
+Index=616
+
+[Escudo5] ' Escudo imperial +1
+Index=623
+
+[Escudo6] 'Escudo Reflejo (Clerigo)
+Index=918
+
+[Escudo7] 'Ojos de Druida (Bardo)
+Index=916
+
+[Escudo8] 'Escudo de Leon (Paladín)
+Index=928
+
+[Escudo9] 'Escudo Sigiloso (Asesino)
+Index=921
